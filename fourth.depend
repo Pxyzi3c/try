@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605408937 source:c:\users\gabay\documents\codeblocks projects\fourth\main.c
+	<stdio.h>
+	<conio.h>
+
